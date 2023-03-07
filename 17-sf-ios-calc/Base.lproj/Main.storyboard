@@ -48,6 +48,9 @@
                                                                         <color key="backgroundColor" systemColor="systemGray2Color"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonPercenClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Sv5-Nj-fTu"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7kL-Zw-RKh">
                                                                 <rect key="frame" x="107.33333333333334" y="0.0" width="106.33333333333334" height="141"/>
@@ -57,6 +60,9 @@
                                                                         <color key="backgroundColor" systemColor="systemGray2Color"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonChangePlusMinusClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vBJ-ju-V3I"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -71,6 +77,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button1click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="roS-D7-CzA"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5k6-LJ-yTO">
                                                                 <rect key="frame" x="107.33333333333334" y="0.0" width="106.33333333333334" height="140.66666666666666"/>
@@ -80,6 +89,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button2click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kkt-6L-Ypx"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -94,6 +106,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button4click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="P8v-nD-ti4"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="amu-T5-iDo">
                                                                 <rect key="frame" x="107.33333333333334" y="0.0" width="106.33333333333334" height="141"/>
@@ -103,6 +118,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button5click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bEI-br-pfr"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -117,6 +135,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button7click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hQO-XL-5zp"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gak-rb-Rl1">
                                                                 <rect key="frame" x="107.33333333333334" y="0.0" width="106.33333333333334" height="141"/>
@@ -126,6 +147,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button8click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="C4O-PA-zaB"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -140,6 +164,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button0click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="J13-3V-7ow"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -159,6 +186,9 @@
                                                                         <color key="backgroundColor" systemColor="systemGray2Color"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonACClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="o5X-Hl-eOn"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1vg-qy-7Lm">
                                                                 <rect key="frame" x="107.00000000000003" y="0.0" width="106.33333333333334" height="141"/>
@@ -168,6 +198,9 @@
                                                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonDevideClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZDk-ZE-0AM"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -182,6 +215,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button3click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1bz-cW-OGe"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZLG-Qz-11z">
                                                                 <rect key="frame" x="107.00000000000003" y="0.0" width="106.33333333333334" height="140.66666666666666"/>
@@ -191,6 +227,9 @@
                                                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonMultipuleClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="c98-qt-cLB"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -205,6 +244,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button6click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Z3A-QQ-egi"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xlw-TL-lDQ">
                                                                 <rect key="frame" x="107.00000000000003" y="0.0" width="106.33333333333334" height="141"/>
@@ -214,6 +256,9 @@
                                                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonPlusClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3VH-is-9Yf"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -228,6 +273,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="button9click:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Twy-gE-GbR"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cq8-K8-0B0">
                                                                 <rect key="frame" x="107.00000000000003" y="0.0" width="106.33333333333334" height="141"/>
@@ -237,6 +285,9 @@
                                                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonMinusClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="60V-o0-Jdd"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -251,6 +302,9 @@
                                                                         <color key="backgroundColor" systemColor="systemYellowColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonDotClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="y7m-s8-JKg"/>
+                                                                </connections>
                                                             </button>
                                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pDp-1e-ElN">
                                                                 <rect key="frame" x="107.00000000000003" y="0.0" width="106.33333333333334" height="141"/>
@@ -260,6 +314,9 @@
                                                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                                                     </backgroundConfiguration>
                                                                 </buttonConfiguration>
+                                                                <connections>
+                                                                    <action selector="buttonEqualClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="k1w-8e-P78"/>
+                                                                </connections>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
@@ -279,6 +336,9 @@
                             <constraint firstItem="1f1-xZ-EZD" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="nPs-Oe-lHt"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="resultLabel" destination="Qgd-nP-zMj" id="tUo-G6-mAu"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
